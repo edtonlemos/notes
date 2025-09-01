@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Imprime Ola
-      run: echo "OLÁ"
+        run: echo "OLÁ"
       - name: Imprime Tchau
-      run: echo "TCHAU"
+        run: echo "TCHAU"
     
