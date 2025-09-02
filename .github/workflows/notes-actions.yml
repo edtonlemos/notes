@@ -1,6 +1,9 @@
 name: Action dos Notes
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
